@@ -41,7 +41,7 @@ All data from the CSV will be included in the description behind an HTML `<detai
 
 **NOTE**: Before running this on the actual project, I would _strongly_ recommend you use a test project in GitLab to make sure the script is working properly for you. (Also keep in mind if the project is public or has any users in it, they can/will get emails for imported issues.) You can also test it by setting `create_issues` to false in the config near the top of the script. This will cause the script to output the VersionOne issue data and the GitLab issue data into the terminal, but not create any of the actual issues. (It will still create milestones, however!).
 
-1. Clone this repository with `git clone https://github.com/connorshea/versionone-to-gitlab`.
+1. Clone this repository with `git clone https://github.com/connorshea/versionone-to-gitlab-importer`.
 1. Install Ruby, preferably v2.6.x but other versions will probably work.
 1. If you're not on Bundler 2.x (`bundle --version`), install Bundler 2.0.1 with `gem install bundler:2.0.1`. (You can probably use any version from the 2.x series.)
 1. Install the necessary Ruby gems using `bundle install`.
