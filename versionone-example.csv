@@ -1,0 +1,29 @@
+﻿Title,,ID,Owner,Priority,Backlog Group,Closed By,Closed Date,Create Date,Created By,Done Hrs.,Sprint,Status,To Do Hrs.,Description,
+Add new feature,,B-01008,John Doe,Medium,,John Doe,5/23/17,5/18/17,John Doe,0.75,Sprint J,Accepted,0.00,"Add a new feature.
+",
+,Task title lorem ipsum,TK-01043,John Doe,,,John Doe,5/19/17,5/18/17,John Doe,0.10,Sprint J,Completed,0.00,"Update PHP
+
+",
+,Task title lorem ipsum,TK-01044,John Doe,,,John Doe,5/19/17,5/18/17,John Doe,0.05,Sprint J,Completed,0.00,"Description example
+
+",
+,Task title lorem ipsum,TK-01045,John Doe,,,John Doe,5/19/17,5/18/17,John Doe,0.05,Sprint J,Completed,0.00,,
+,Task title lorem ipsum,TK-01046,John Doe,,,John Doe,5/19/17,5/18/17,John Doe,0.15,Sprint J,Completed,0.00,"Example description
+
+",
+,Task title lorem ipsum,TK-01047,John Doe,,,John Doe,5/19/17,5/18/17,John Doe,0.05,Sprint J,Completed,0.00,,
+,Task title lorem ipsum,TK-01048,John Doe,,,John Doe,5/19/17,5/18/17,John Doe,0.05,Sprint J,Completed,0.00,,
+,Task title lorem ipsum,TK-01049,John Doe,,,John Doe,5/19/17,5/18/17,John Doe,0.30,Sprint J,Completed,0.00,"Description lotem ipsum",
+title lorem ipsum,,B-01010,John Doe,High,,John Doe,5/22/17,5/18/17,John Doe,0.95,Sprint K,Accepted,0.00,"Description lorem ipsum
+
+",
+,Task title lorem ipsum,TK-01050,John Doe,,,John Doe,5/22/17,5/18/17,John Doe,0.20,Sprint K,Completed,0.00,"Description lorem ipsum
+
+",
+,Lorem ipsum dolor sit amet,TK-01051,John Doe,,,John Doe,5/22/17,5/18/17,John Doe,0.25,Sprint K,Completed,0.00,"Description lorem ipsum
+
+",
+,Lorem ipsum dolor sit amet,TK-01052,John Doe,,,John Doe,5/22/17,5/18/17,John Doe,0.50,Sprint K,Completed,0.00,"Do something.",
+Lorem ipsum dolor sit amet,,B-01011,John Doe,High,,John Doe,5/22/17,5/18/17,John Doe,4.40,Sprint H,Accepted,0.00,"Description lorem ipsum
+
+",
