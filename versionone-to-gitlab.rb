@@ -6,9 +6,9 @@ require 'date'
 @config = {
   # Set this to false when testing, to make sure issues aren't actually created.
   # Milestones will still be created regardless.
-  create_items: true,
+  create_items: false,
   # Set this to false if you're getting SSL errors (generally avoid setting this to false if you can).
-  ssl_verification: false,
+  ssl_verification: true,
   # Set a "VersionOne import" label by default for all imported issues.
   default_labels: ['VersionOne Import']
 }
